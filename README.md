@@ -61,7 +61,7 @@ A few things stand out looking at these 10 postings:
 
 - **Jobs seem to lean toward being posted early in the year, though 10 jobs is a small sample.** The postings span the whole year (January to December), but 6 of the 10 — including both of the highest-paying jobs — were posted in the first three months (Jan–Mar). Not strong proof of a real pattern with only 10 data points, but worth checking again with more data later.
 
-![Top Paying Roles](assets/1_top_paying_jobs.PNG)
+![Top Paying Roles](assets/1_top_paying_jobs.png)
 *Bar graph visualizing the salaries for the top 10 highest-paying remote data engineer job postings. Generated with Claude AI assistance based on the SQL query results above.*
 
 ### 2. Skills for Top Paying Jobs
@@ -115,7 +115,7 @@ A few things stand out looking at these 10 postings and their 22 distinct skills
 
 - **Keep in mind, this is a small sample.** This is only 10 job posts (8 once you remove duplicates), so patterns like "no favorite cloud" or "SQL is rare here" are only true for this small top-paying group, not for the whole Data Engineer job market.
 
-![Top Paying Skills](assets/2_top_paying_job_skills.PNG)
+![Top Paying Skills](assets/2_top_paying_job_skills.png)
 
 *Bar graph visualizing the count of skills for the top 10 highest-paying remote data engineer job postings. Generated with Claude AI assistance based on the SQL query results above.*
 
