@@ -72,8 +72,8 @@ name-checked in the listing.
 
 SQL is underrepresented for a "foundational" skill, appearing in only 2 of 10 postings.
 That's probably because at this level, companies assume you already know SQL, so 
-they don't bother listing it, while the specialized tools — the ones that actually differentiate one
-high-paying role from another — are what get called out.
+they don't bother listing it, while the specialized tools — the ones that actually 
+differentiate one high-paying role from another — are what get called out.
 
 One caveat worth keeping in mind throughout: this is a sample of just 10 postings (8
 once duplicates are collapsed), so patterns like "no cloud consensus" or "SQL is rare"

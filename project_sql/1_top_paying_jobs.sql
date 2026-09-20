@@ -21,7 +21,38 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10
 
-/* 
+/* A few things stand out looking at these 10 postings:
+
+The pay drops off fast, then flattens out. Two jobs at Engtal pay way more than everyone
+else, at $325,000 each. The next highest job (Durlston Partners) already drops to
+$300,000, a $25,000 gap. After that, 6 of the remaining 7 jobs are bunched close
+together, between $242,000 and $251,000 -- only a $9,000 difference between all of them.
+
+The two Engtal jobs look the same, but might be two separate real job posts. Both pay
+exactly $325,000 with the same job title, which could look like a mistake at first. But
+the posted dates are 3 weeks apart (Jan 27 vs. Feb 17), so it's possible Engtal really
+did post the job twice after not finding someone the first time -- worth checking rather
+than assuming it's duplicate data.
+
+One company posted two different job levels for the exact same pay. Signify Technology
+has both a "Principal" and a "Staff" engineer job -- usually different seniority levels
+-- but both pay exactly $250,000, which is a bit unusual.
+
+The highest-paying job isn't from a famous company. Engtal, a smaller and less
+well-known company, has the #1 highest-paying job at $325K. Meta -- a huge, famous tech
+company -- is actually at the bottom of this list, at $242K.
+
+You don't have to become a manager to reach the top of the pay scale. Most jobs on this
+list are hands-on engineering roles (Data Engineer, Staff, Principal), not management.
+But 2 of the 10 are leadership roles (a Director at Twitch, a Manager at Meta), showing
+both career paths can lead to top pay.
+
+Jobs seem to lean toward being posted early in the year, though 10 jobs is a small
+sample. The postings span the whole year (January to December), but 6 of the 10 --
+including both of the highest-paying jobs -- were posted in the first three months
+(Jan-Mar). Not strong proof of a real pattern with only 10 data points, but worth
+checking again with more data later.
+
 [
   {
     "job_id": 21321,

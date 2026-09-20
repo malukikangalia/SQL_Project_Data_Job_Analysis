@@ -40,6 +40,9 @@ The distributed-data / streaming cluster holds up as a real, repeatable pattern.
 Spark, PySpark, Hadoop, and Airflow all land in the upper-middle of this list with both
 solid demand (64-237 postings) and above-average pay ($137K-$150K). This is the third time
 this exact cluster has appeared across different queries in this analysis - not a fluke.
+When these tools group together, it shows that companies pay a premium for engineers who can 
+manage infrastructure that scales horizontally. While standard SQL is great for regular database 
+sizes, mastering a distributed data stack shows you know how to handle true "Big Data".
 
 Cloud platforms are common but not a pay differentiator. AWS (367 postings), Azure (254),
 and GCP (76) all rank in the bottom third on salary despite strong demand. Cloud familiarity
